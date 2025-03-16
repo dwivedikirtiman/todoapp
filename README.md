@@ -116,7 +116,7 @@ MySql Workbench :
 ![image](https://github.com/user-attachments/assets/2b702a2e-0118-43c9-a8da-4e140b98e00e)
 
 
-## 🚧 Future Improvements
+## 🚧 Future Improvements(Optional/Suggestions)
 
 - Add user authentication for better security
 
