@@ -86,7 +86,7 @@ This is a feature-rich To-Do application built using Spring Boot, JPA, Lombok, T
 
 - Clone the Repository:
 ```
-   git clone https://github.com/your-repo-link
+   git clone https://github.com/dwivedikirtiman/todoapp.git
 ```
 - Navigate to Project Directory:
 ```
